@@ -5,7 +5,11 @@
 # **Pitch: Shop-Centric Display for the Weed Delivery Website**
 
 ## **Problem**
-Currently, our website displays all weed products on one page without distinction regarding their source. This makes it hard for customers to identify or purchase from specific trusted providers. Feedback shows that customers are more inclined to buy from providers they've had positive experiences with. They value consistent quality and want to know the product's source if it falls short of expectations.
+The current website design displays all products on a single page without any differentiation regarding their origin or provider. Feedback indicates that customers prefer to purchase from trusted providers based on prior experiences. Not differentiating between stores leads to ambiguity and may prevent customers from making informed decisions. A majority of customers prefer to purchase from specific providers due to previous satisfactory experiences or perceived quality. Providers are also seeking better visibility and a dedicated space for promotions.
+
+## **Appetite**
+We're looking to implement this feature within a 6-week cycle. The focus is to streamline the customer's shopping experience by prioritizing provider recognition.
+
 
 ## **Solution**
 Introduce a shop-centric layout, taking inspiration from popular food delivery apps. The main page will now spotlight different provider shops, making them the top-level category instead of individual weed strains.
@@ -31,7 +35,20 @@ Introduce a shop-centric layout, taking inspiration from popular food delivery a
      * Add or remove strains.
      * Respond to customer reviews (if such a system exists).
 
-### *Benefits/Intended Outcomes*:
+    
+## **Rabbit Holes**:
+Customization Features: Diving too deep into allowing providers to customize every aspect of their page can lead us astray. We need to set clear limits on customization options.
+
+Rating System Complexity: We aim for a simple rating system based on user feedback. Avoiding over-complicating it with too many parameters is essential.
+
+
+## **No Gos**:
+Live Chat Feature: Though it might be an excellent tool for customer-provider interaction, implementing a live chat system is out of scope for this feature.
+
+Integrated Marketing Tools: While providers might want marketing tools, our focus should remain on displaying products and providers. Any additional marketing tools or promotional features will not be part of this iteration.
+
+
+## **Benefits/Intended Outcomes**:
 
 - **For Customers**:
   - Easier identification of products from trusted providers.
@@ -46,13 +63,15 @@ Introduce a shop-centric layout, taking inspiration from popular food delivery a
   - Improved user experience potentially leading to increased user retention and sales.
   - Strengthened relationships with providers through better visibility.
 
-### *Constraints/Risks*:
+
+## **Constraints/Risks**:
 
 - **UI Overhaul**: Implementing this change may need a significant frontend redesign.
   
 - **Provider Engagement**: Providers must be introduced and familiarized with this new system.
   
 - **Performance Issues**: The need for performance optimization becomes pivotal with each shop having its page and a potential abundance of products.
+
 
 ## **Next Steps**
 
