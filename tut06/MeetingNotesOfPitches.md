@@ -10,8 +10,8 @@ Commit: Once a bet is made, the team gets an uninterrupted six-week cycle to wor
 Circuit Breaker: If a project isn't completed in six weeks, reassess its viability and shaping.
 Cool-down: Use this period for reflection, minor tasks, and bug fixes.
 
-# TO DO
-# Document all rough meeting notes of the pitches (consider this a rough draft of deliverable #2)
+
+# Document of all rough meeting notes of the pitches 
 The team should submit detailed meeting minutes, as well as make all necessary updates to the winning pitch.
 
 ## Meeting notes on arriving at that decision
@@ -71,11 +71,14 @@ Are the right people available?: Make sure the team has the necessary skills and
 ### Moha's Pitch 
 Questions to Ask at the Betting Table
 Does the problem matter?: Evaluate the importance of the problem you're solving.
-- Yes
+- Yes as it gives customers an easier layout to identify their favorite weed stores
+- Yes as it allows shops to build a better and more obvious relationship with their customers
+- Yes as it allows us to track the best performing stores which can help with testing and pivoting
 
 Is the appetite right?: Make sure the time frame for solving the problem is reasonable.
 - Can be done in 6 weeks
-- Not many new technologies needed, we know all the tools to create the new shop layout
+- Not many new technologies needed.
+- We know and have all the tools needed to create the new shop layout.
 
 
 Is the solution attractive?: Evaluate the proposed solution's impact and feasibility.
